@@ -4,41 +4,22 @@ I am Alexander
 
 ### programming stuff i like
 
-* chatting with people about programming
-* tooling
-* language design
-* discussing cool ideas
-* building my own projects/contributing to interesting stuff
+chatting with people about programming | tooling | language design | building my own projects/contributing to interesting stuff
 
 ### languages i use
 
-* nim
-* python
-* ruby
-* go
-* typescript
-* c (kinda)
+nim | python |ruby | go | typescript | c (kinda)
 
 ### languages i want to use a bit more
 
-* rust
-* haskell
-* ocaml
-* scala
-* c++
+rust | haskell | ocaml | scala | c++
 
-### other info
+### me
 
 * send me a mail or chat with me on gitter/discord
-* I am from bulgaria
-* want to play more football
-
-
-### what I think about life
-
-* I believe John 14:6 and John 10:11
+* A christian. Jesus is the way, the truth and the life.
+* A bulgarian. 
 * revolutions inside our hearts are more important than protests in front of buildings
-* war is usually not a good thing
 
 
 
