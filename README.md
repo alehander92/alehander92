@@ -1,6 +1,6 @@
 hey people
 
-I am Alexander
+I am Alexander: a christian. a programmer.
 
 ### programming stuff i like
 
