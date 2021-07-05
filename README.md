@@ -8,11 +8,11 @@ chatting with people about programming | tooling | language design | building my
 
 ### languages i use
 
-nim | python |ruby | go | typescript | c (kinda)
+python | ruby | go | typescript | c (kinda) | rust | nim
 
 ### languages i want to use a bit more
 
-rust | haskell | ocaml | scala | c++
+haskell | ocaml | scala | c++
 
 ### me
 
